@@ -3,3 +3,7 @@
 3. Serialize matrixes
 4. Save serialized matrixes to the file
 5. Secure the inputs
+6. Simle UI added                                      DONE
+7. Matrixes summ, subtraction, multiplication       DONE
+8. Matrix manual and random MxN creation        DONE
+9. Matrix collection adding and deleting        DONE
