@@ -1,0 +1,4 @@
+1. To make exceptions
+2. To make type matrix instead of class Matrix
+3. Serialize matrixes
+4. Save serialized matrixes to the file
