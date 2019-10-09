@@ -1,9 +1,14 @@
-1. To make exceptions
-2. To make type matrix instead of class Matrix
-3. Serialize matrixes
-4. Save serialized matrixes to the file
-5. Secure the inputs
-6. Simle UI added                                      DONE
-7. Matrixes summ, subtraction, multiplication       DONE
-8. Matrix manual and random MxN creation        DONE
-9. Matrix collection adding and deleting        DONE
+1. To make exceptions                             DONE
+2. To make type matrix instead of class Matrix    DONE
+3. Serialize matrixes                             DONE
+4. Save serialized matrixes to the file           DONE
+5. Secure the inputs                              DONE
+6. Simle UI added                                 DONE
+7. Matrixes summ, subtraction, multiplication     DONE
+8. Matrix manual and random MxN creation          DONE
+9. Matrix collection adding and deleting          DONE
+10. Separate class to library
+11. Overload +, - and * functions
+12. checked
+13. CLONE
+14. matrix incapsulation
