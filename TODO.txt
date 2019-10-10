@@ -1,5 +1,5 @@
 1. To make exceptions                             DONE
-2. To make type matrix instead of class Matrix    DONE
+2. To make type matrix instead of class Matrix    ????
 3. Serialize matrixes                             DONE
 4. Save serialized matrixes to the file           DONE
 5. Secure the inputs                              DONE
@@ -12,3 +12,5 @@
 12. checked
 13. CLONE
 14. matrix incapsulation
+15. Make constructors
+16. Make indexer
